@@ -1,9 +1,8 @@
-# 📈 Stock Trading Strategy (NIFTY 50)
+# 📈 Algorithmic-Trading-Backtesting-Engine-NIFTY-50
 
 ## 📌 Overview
 
-This project builds and backtests a rule-based trading strategy using historical data of the **NIFTY 50** index.
-The strategy uses technical indicators to identify trends and generate buy/sell signals.
+This project implements a modular backtesting engine to evaluate rule-based trading strategies on the NIFTY 50 index using technical indicators to generate buy/sell signals.
 
 ---
 
